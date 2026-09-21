@@ -49,6 +49,3 @@ GameZone-Retro/
 
 O projeto foi desenvolvido como uma atividade prática para demonstrar o uso dos principais elementos do HTML na criação de uma página simples de uma loja de games retrô.
 
-## 👩‍💻 Autora
-
-**Isabela Caroline da Costa Martins**
